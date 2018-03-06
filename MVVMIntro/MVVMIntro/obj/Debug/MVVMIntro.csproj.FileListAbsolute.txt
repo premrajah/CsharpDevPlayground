@@ -1,0 +1,16 @@
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\bin\Debug\MVVMIntro.exe.config
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\bin\Debug\MVVMIntro.exe
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\bin\Debug\MVVMIntro.pdb
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\MVVMIntro.csprojResolveAssemblyReference.cache
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\App.g.cs
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\MVVMIntro_MarkupCompile.cache
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\MVVMIntro_MarkupCompile.lref
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\MVVMIntro.g.resources
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\MVVMIntro.Properties.Resources.resources
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\MVVMIntro.csproj.GenerateResource.Cache
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\MVVMIntro.csproj.CoreCompileInputs.cache
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\MVVMIntro.exe
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\MVVMIntro.pdb
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\View\MainWindow.g.cs
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\P\CsharpDevPlayground\MVVMIntro\MVVMIntro\obj\Debug\View\MainWindow.baml
